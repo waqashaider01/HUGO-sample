@@ -1,7 +1,7 @@
 ---
 # title: 'MY Sample'
 url: "/"
-heading: "Simple and Nice"
-para1: "The need for improved security is now a critical feature for all businesses. Secure60 brings wholistic security visibility to any size organisation."
-button: "button value"
+heading: "This is the main haeading"
+para1: "This is leading heading, This is how it works"
+button: "Subscribe now"
 ---
