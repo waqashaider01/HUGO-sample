@@ -109,9 +109,9 @@
 
 }
 
-.left_col_heading_col:hover {
+/* .left_col_heading_col:hover {
     transform: scale(1.05);
-}
+} */
 
 .sec2_Bottom_para {
     font-size: 24px;
@@ -126,10 +126,10 @@
     transition: all 0.3s ease-in-out;
     font-size: 37px !important;
 }
-
+/* 
 .sec3_top_heading:hover {
     transform: scale(1.05);
-}
+} */
 
 
 
