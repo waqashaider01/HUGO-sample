@@ -71,7 +71,7 @@
     color: white !important;
     font-weight: 500;
     border-radius: 20px;
-    padding: 8px 20px;
+    padding: 11px 41px;
     transition: all 0.4s ease-in-out;
     cursor: pointer;
 
@@ -104,6 +104,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease-in-out;
+    font-size: 37px;
+
 
 }
 
