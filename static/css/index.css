@@ -104,7 +104,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease-in-out;
-    font-size: 37px;
+    font-size: 37px !important;
 
 
 }
@@ -124,7 +124,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease-in-out;
-    font-size: 37px;
+    font-size: 37px !important;
 }
 
 .sec3_top_heading:hover {
