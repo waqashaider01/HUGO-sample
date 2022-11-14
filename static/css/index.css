@@ -31,8 +31,9 @@
 .custom_nav ul li a {
     color: white !important;
     text-transform: uppercase;
-    margin-right: 30px;
+    margin-right: 37px;
     transition: all .2s ease-in-out;
+    font-size: 12px;
 
 }
 
@@ -46,13 +47,13 @@
 .hero_heading {
     margin-top: 80px;
     color: #60efff;
- 
+
 }
 
 .hero_heading:hover {
     margin-top: 80px;
     color: #60efff;
- 
+
 
 
 }
