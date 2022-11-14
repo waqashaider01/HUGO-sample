@@ -40,7 +40,7 @@
 .custom_nav ul li a:hover {
     color: #60efff !important;
     transform: scale(1.1);
-    box-shadow: 0px 15px 20px rgba(44, 114, 255, 0.489);
+    /* box-shadow: 0px 15px 20px rgba(44, 114, 255, 0.489); */
 }
 
 
@@ -61,6 +61,8 @@
 
 .hero_par {
     color: white;
+    font-size: 21px;
+    font-weight: 200;
 }
 
 .hero_btn a {
@@ -72,6 +74,7 @@
     padding: 8px 20px;
     transition: all 0.4s ease-in-out;
     cursor: pointer;
+
 
 }
 
