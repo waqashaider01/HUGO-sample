@@ -126,6 +126,7 @@
     transition: all 0.3s ease-in-out;
     font-size: 37px !important;
 }
+
 /* 
 .sec3_top_heading:hover {
     transform: scale(1.05);
@@ -148,7 +149,7 @@
 }
 
 .footer_sb {
-    margin-top: 180px;
+    margin-top: 150px;
 }
 
 
