@@ -52,10 +52,10 @@ body {
 }
 
 
-.hero_heading h1 {
+.hero_heading {
     margin-top: 65px;
     color: #60efff;
-    font-size: 90px !important;
+    font-size: 40px !important;
 
 }
 
