@@ -146,6 +146,10 @@ body {
 .copyright {
     font-family: 'Nunito', sans-serif;
     font-weight: 300;
+    font-size: 18px;
+    color: #8fa2bf;
+
+
 }
 
 /* .left_col_heading_col:hover {
