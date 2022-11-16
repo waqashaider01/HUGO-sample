@@ -136,6 +136,12 @@ body {
 
 }
 
+.horizentalline {
+    width: 1600px;
+    size: 1px;
+    color: black;
+}
+
 /* .left_col_heading_col:hover {
     transform: scale(1.05);
 } */
