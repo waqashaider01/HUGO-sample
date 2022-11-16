@@ -217,6 +217,7 @@ body {
 @media only screen and (min-width: 1000px) {
     .main_container {
         padding-left: 170px !important;
+
         padding-right: 170px !important;
     }
 
@@ -225,6 +226,6 @@ body {
 @media(max-width:768px) {
     #btn2 {
         position: relative;
-        bottom: 60px;
+        bottom: 50px;
     }
 }
