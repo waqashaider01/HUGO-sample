@@ -115,10 +115,17 @@ body {
     transition: all 0.3s ease-in-out;
     font-size: 60px !important;
     font-family: 'Nunito', sans-serif;
-    
 
 
 
+
+}
+
+.righttexthead {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    size: 24px;
+    color: #606c80;
 }
 
 /* .left_col_heading_col:hover {
