@@ -149,7 +149,7 @@ body {
 }
 
 .sec3_top_heading h3 {
-    background: -webkit-linear-gradient(#0061ff, #60efff);
+    background: -webkit-linear-gradient(#60efff, #0061ff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease-in-out;
