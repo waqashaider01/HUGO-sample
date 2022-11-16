@@ -223,6 +223,7 @@ body {
 
 @media(max-width:768px) {
     .hero_btn a {
-        margin-bottom: 30px;
+        /* margin-top: 30px; */
+        margin-bottom: 90px;
     }
 }
