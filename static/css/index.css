@@ -223,7 +223,7 @@ body {
 
 @media(max-width:768px) {
     #btn2 {
-        /* margin-top: 30px; */
-        margin-bottom: 60px;
+        position: relative;
+        bottom: 30px;
     }
 }
