@@ -152,6 +152,16 @@ body {
 
 }
 
+.copyright1 a {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #8fa2bf;
+
+
+}
+
+
 /* .left_col_heading_col:hover {
     transform: scale(1.05);
 } */
