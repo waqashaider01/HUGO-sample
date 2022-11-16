@@ -113,7 +113,10 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: all 0.3s ease-in-out;
-    font-size: 37px !important;
+    font-size: 60px !important;
+    font-family: 'Nunito', sans-serif;
+    
+
 
 
 }
