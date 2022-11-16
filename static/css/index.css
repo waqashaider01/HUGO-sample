@@ -141,8 +141,10 @@ body {
 } */
 
 .sec2_Bottom_para {
-    font-size: 24px;
-    color: #7c7c7c;
+    font-size: 40px !important;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    color: #8fa2bf;
 
 }
 
