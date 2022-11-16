@@ -25,7 +25,7 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url('/images/Homepage-Hero-Image-Optimized.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    height: 720px;
+    height: 120vh;
     background-size: cover;
     position: relative;
     margin-left: auto;
