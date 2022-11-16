@@ -225,6 +225,6 @@ body {
 @media(max-width:768px) {
     #btn2 {
         position: relative;
-        bottom: 30px;
+        bottom: 60px;
     }
 }
