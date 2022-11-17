@@ -229,4 +229,8 @@ body {
         position: relative;
         bottom: 50px;
     }
+
+    .hero_btn2 {
+        margin-top: 6rem !important;
+    }
 }
